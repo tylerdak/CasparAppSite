@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://caspar.tylerdakin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://caspar.tylerdakin.com/" rel="alternate" type="text/html" /><updated>2021-02-06T23:06:32-05:00</updated><id>https://caspar.tylerdakin.com/feed.xml</id><title type="html">Caspar - Find Your Dog’s Name</title><subtitle>Caspar is a work in progress app to help users find the perfect dog name! Subscribe to this RSS feed or follow @tylerdakin on TikTok to follow along with the development of Caspar.</subtitle><entry><title type="html">Announcing Caspar:An app for aspiring dog lovers!</title><link href="https://caspar.tylerdakin.com/2021/02/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Announcing Caspar:An app for aspiring dog lovers!" /><published>2021-02-06T00:00:00-05:00</published><updated>2021-02-06T00:00:00-05:00</updated><id>https://caspar.tylerdakin.com/2021/02/06/welcome-to-jekyll</id><content type="html" xml:base="https://caspar.tylerdakin.com/2021/02/06/welcome-to-jekyll.html">&lt;p&gt;Hello and welcome to what I hope will be a large library of updates for Caspar!&lt;/p&gt;
+
+&lt;p&gt;Caspar is an upcoming iOS app for people looking for dog names. There are several planned features to target dog lovers specifically and to make the app an easy-to-use experience for anyone looking to name their new addition to the family.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-the-app-do&quot;&gt;What will the app do?&lt;/h2&gt;
+&lt;p&gt;I will be collecting several (looks like thousands) of dog names during the development period of this app and throwing them into a database.&lt;/p&gt;
+
+&lt;p&gt;When a user logs onto the app, they’ll get started with their first suggested name, coming from the database I end up with. 
+At this point, the user can decide to keep the name for later, in a list tied to their account, or they can choose not
+to keep it. The user will make this decision with the familiar interface that Tinder uses. If you’re unfamiliar, it’s a
+simple system where you will swipe left to decline a name and swipe right to keep the name.&lt;/p&gt;
+
+&lt;p&gt;Now, at this point you may be thinking that this is a fairly simple idea and you’d be right! Apps like this have already been made! However, the
+apps I’ve seen so far target general pets. That’s fine, but I’d like to specifically target dog lovers in a few ways.&lt;/p&gt;
+
+&lt;p&gt;Here are a few of the features I’ve come up with to set my app apart from the rest:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Above every name shown will be a dog so you can imagine what it will be like to have the suggested name attached to your dog, even if you don’t have them yet.
+    &lt;ul&gt;
+      &lt;li&gt;In addition, you’ll be able to specify the breed of dog you’re getting and only see dogs of that breed!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Users will make an account upon first downloading the app. With this account, they can save their lists and compare them with other users!
+    &lt;ul&gt;
+      &lt;li&gt;If you and your partner are getting a dog together, you’ll be able to compare lists and see if you’ve agreed on any! (I plan to give paired users similar lists so they’ll actually see the same names)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Users will be able to suggest names to add to the database! If you’ve come up with a great name and want to share it with our users, you’ll be able to do so!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thats-great-where-can-i-stay-updated-on-this-project&quot;&gt;That’s great! Where can I stay updated on this project?&lt;/h2&gt;
+&lt;p&gt;There are a few places!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I plan to post most frequently about this project on &lt;a href=&quot;https://tiktok.com/@callmetyler65&quot;&gt;my TikTok account&lt;/a&gt; which you can always find on the home page of this site if you need to. I plan to make those updates a bit less detailed as they will be targeted for a broader audience.&lt;/li&gt;
+  &lt;li&gt;I’ll be posting occasional updates here that will go further into detail for those who want to get down to the nitty gritty of what I’m making. In addition, the posts here will feature all the TikToks I have made since the previous post. I’m not sure if those will be at the bottom or spread out through the post where they’re relevant. It’ll likely be dependent on the content of the post.&lt;/li&gt;
+  &lt;li&gt;I’ll probably post some updates on my Twitter, but they will probably either be me asking my iOS Developer peers for help or complaining about the development process. Either way, I post a lot even unrelated to iOS Development there so &lt;a href=&quot;https://twitter.tylerdakin.com&quot;&gt;feel free to check it out if you’d like.&lt;/a&gt;
+If you’d like my suggestion, I’d recommend TikTok if you’re just a regular user. If you’re into iOS Development, you’ll probably appreciate the blog posts here more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;i-have-a-suggestion-for-this-app-that-id-like-to-see-added&quot;&gt;I have a suggestion for this app that I’d like to see added!&lt;/h2&gt;
+&lt;p&gt;That’s wonderful! I’d love to hear it. Here are a couple ways you can reach out:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’ll be posting regular updates on &lt;a href=&quot;https://tiktok.com/@callmetyler65&quot;&gt;TikTok&lt;/a&gt;, so feel free to comment on any of those videos with your suggestion.&lt;/li&gt;
+  &lt;li&gt;You can always reach me on &lt;a href=&quot;https://twitter.tylerdakin.com&quot;&gt;Twitter @_tylerdakin.&lt;/a&gt; My DMs are open!&lt;/li&gt;
+  &lt;li&gt;If you’re not a social media person, feel free to reach me &lt;a href=&quot;mailto:caspar@tylerdakin.com&quot;&gt;by email at caspar@tylerdakin.com&lt;/a&gt;.
+I can’t promise I’ll use your suggestion, but I will be adding any ideas that I feel fit my vision for this app well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;i-have-a-complaint-question-or-comment&quot;&gt;I have a complaint, question, or comment!&lt;/h2&gt;
+&lt;p&gt;See if it’s one of these before asking me directly:&lt;/p&gt;
+&lt;h4 id=&quot;is-it-only-for-ios&quot;&gt;Is it only for iOS?&lt;/h4&gt;
+&lt;p&gt;It might come to iPad, Apple Watch, and macOS depending on how nice the design turns out, but no promises.
+No Android support though. I consider myself an Apple platforms developer and I don’t plan on changing that unless I get really bored with the Apple ecosystem. I suggest Android users look at alternatives.&lt;/p&gt;
+&lt;h4 id=&quot;will-it-be-free&quot;&gt;Will it be free?&lt;/h4&gt;
+&lt;p&gt;I’m not sure yet. My last app was free, but that was because I didn’t see there being much demand for it. Depending on the attention these updates get and the work I put into this project, there might be a price attached. Ideally, after I publish this app, I’ll want to keep supporting it. My motivation to support an app will be much higher if I’m getting paid to do so. :P&lt;/p&gt;
+&lt;h4 id=&quot;when-will-it-be-released&quot;&gt;When will it be released?&lt;/h4&gt;
+&lt;p&gt;I’m absolutely not giving any estimate on a release date! My first app was pushed by 6+ months from the original release date. I’ll announce the release date when the app is ready for release.
+However, there WILL be a beta test period before the release. So if you want to be a part of that, I recommend you &lt;a href=&quot;https://tiktok.com/@callmetyler65&quot;&gt;follow the TikTok account&lt;/a&gt;, &lt;a href=&quot;https://twitter.tylerdakin.com&quot;&gt;Twitter&lt;/a&gt;, and/or RSS feed of this site to stay posted (RSS feed linked at the bottom of this page).&lt;/p&gt;
+
+&lt;p&gt;If none of these were your question, feel free to ask!&lt;/p&gt;
+
+&lt;p&gt;I’m very excited to begin work on this app and especially excited to see reactions to it. Thank you!&lt;/p&gt;</content><author><name>Tyler Dakin</name></author><summary type="html">Hello and welcome to what I hope will be a large library of updates for Caspar!</summary></entry></feed>
